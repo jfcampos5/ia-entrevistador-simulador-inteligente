@@ -2,12 +2,12 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/jfcampos5/ia-entrevistador-simulador)
-![GitHub last commit](https://img.shields.io/github/last-commit/jfcampos5/ia-entrevistador-simulador)
+![GitHub repo size](https://img.shields.io/github/repo-size/jfcampos5/ia-entrevistador-simulador-inteligente)
+![GitHub last commit](https://img.shields.io/github/last-commit/jfcampos5/ia-entrevistador-simulador-inteligente)
 ![Made with](https://img.shields.io/badge/made%20with-JavaScript-green.svg)
 
-
-Este repositório faz parte de um projeto da **Digital Innovation One (DIO)** e tem como objetivo **simular entrevistas técnicas** na área de tecnologia. O projeto ajuda candidatos a treinar respostas, ganhar confiança e se preparar para processos seletivos reais, documentando todo o processo em um portfólio público.
+Este repositório faz parte de um projeto da **Digital Innovation One (DIO)** e tem como objetivo **simular entrevistas técnicas** na área de tecnologia.  
+O projeto ajuda candidatos a treinar respostas, ganhar confiança e se preparar para processos seletivos reais, documentando todo o processo em um portfólio público.
 
 ---
 
@@ -35,15 +35,16 @@ Este repositório faz parte de um projeto da **Digital Innovation One (DIO)** e 
 
 ---
 
-## 📂 Estrutura sugerida
-
+## 📂 Estrutura 
 ````
-📁 ia-entrevistador-simulador 
   ┣ 📄 README.md 
   ┣ 📄 resultado-entrevista.md 
-  ┣ 📁 projetos 
+  ┣ 📁 projetos
+      📁app-financas
+      📁CV
+      📁plano-aula-ia    
   ┣ 📁 imagens
-````
+```` 
 ---
 
 ## 📝 Exemplo de Perguntas Simuladas
@@ -71,5 +72,17 @@ O documento `resultado-entrevista.md` contém:
 
 ---
 
+## 🤝 Contribuição
+Contribuições são bem-vindas!  
+Para colaborar:  
+1. Faça um **fork** do repositório.  
+2. Crie uma branch para sua modificação.  
+3. Faça as alterações desejadas.  
+4. Envie um **Pull Request** com suas mudanças.  
+
+---
+
 👨‍💻 **Autor:** [Joelma Campos]  
 📅 **Data:** [07/12/2025]  
+
+---
