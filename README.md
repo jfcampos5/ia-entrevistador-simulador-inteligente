@@ -1,7 +1,13 @@
 # 🤖 IA Entrevistador: Seu Simulador Inteligente de Entrevistas
 
-Este repositório faz parte de um projeto da **Digital Innovation One (DIO)** e tem como objetivo **simular entrevistas técnicas** na área de tecnologia.  
-O projeto ajuda candidatos a treinar respostas, ganhar confiança e se preparar para processos seletivos reais, documentando todo o processo em um portfólio público.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/jfcampos5/ia-entrevistador-simulador)
+![GitHub last commit](https://img.shields.io/github/last-commit/jfcampos5/ia-entrevistador-simulador)
+![Made with](https://img.shields.io/badge/made%20with-JavaScript-green.svg)
+
+
+Este repositório faz parte de um projeto da **Digital Innovation One (DIO)** e tem como objetivo **simular entrevistas técnicas** na área de tecnologia. O projeto ajuda candidatos a treinar respostas, ganhar confiança e se preparar para processos seletivos reais, documentando todo o processo em um portfólio público.
 
 ---
 
